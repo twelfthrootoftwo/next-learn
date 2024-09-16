@@ -12,4 +12,4 @@ The code for the example apps you build using Next.js Learn live in this reposit
 
 The course curriculum is currently not open sourced, but you can [create an issue](https://github.com/vercel/next-learn/issues/new) if you find a mistake.
 
-test change
+test change 2
