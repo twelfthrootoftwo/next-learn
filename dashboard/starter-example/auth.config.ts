@@ -1,4 +1,9 @@
 import type { NextAuthConfig } from 'next-auth';
+import { Metadata } from 'next';
+
+export const metadata: Metadata = {
+    title: 'Login',
+  };
  
 export const authConfig = {
   pages: {
